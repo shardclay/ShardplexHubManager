@@ -10,3 +10,5 @@ Automatic Teleport: Configurable height threshold to teleport falling players ba
 Minimalist Design: Built specifically for hub functionality without unnecessary features
 
 Network Integration: Custom-tailored for Shardplex Network's specific infrastructure
+
+_ tested on 1.21.8
